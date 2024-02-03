@@ -71,5 +71,6 @@ source /root/nulink-venv/bin/activate
 python -c "import nulink"
 
 nulink --help
+//root why
 
 export NULINK_KEYSTORE_PASSWORD
