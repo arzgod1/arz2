@@ -24,7 +24,7 @@ sudo apt-get install docker-ce docker-ce-cli containerd.io docker-compose-plugin
 sudo docker run hello-world 
 
 sudo apt update && sudo apt upgrade -y
-
+sudo apt x
 
 apt install python3-pip -y
 install 1
